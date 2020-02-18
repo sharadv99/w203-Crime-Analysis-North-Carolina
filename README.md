@@ -14,7 +14,7 @@ This study was an exploratory data analysis of 1987 crime statistics for a selec
 - population density and demographics of the counties
 - taxes and weekly wages
 
-For detailed data analysis/modeling and recommendations, please refer to the the PDF report
+For detailed data analysis/modeling and recommendations, please refer to the the [PDF report](https://github.com/sharadv99/w203-Crime-Analysis-North-Carolina/blob/master/Crime_Analysis.pdf)
 
 Tech Stack/Methods
 -----------------
